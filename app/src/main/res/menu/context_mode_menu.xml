@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_color"
+        android:icon="@drawable/color_fill"
+        android:iconTint="#F5EBEB"
+        android:title="Couleur d'action"
+        app:showAsAction="always">
+
+    </item>
+</menu>
